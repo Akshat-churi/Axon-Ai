@@ -1,0 +1,3886 @@
+{
+  "workspace": {
+    "id": "ws-prod-1",
+    "name": "Axon Production Workspace",
+    "slug": "axon-prod",
+    "ownerId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+    "plan": "Enterprise",
+    "membersCount": 3,
+    "createdAt": "2026-09-28T13:42:47.195Z",
+    "setupCompleted": true
+  },
+  "currentUser": {
+    "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+    "name": "Akshat Churi",
+    "email": "akshatchuri699@gmail.com",
+    "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+    "role": "owner",
+    "cursorColor": "#6366F1",
+    "timezone": "Asia/Calcutta",
+    "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+    "githubUsername": "akshat-churi"
+  },
+  "projects": [
+    {
+      "id": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "name": "Fittrack AI",
+      "slug": "fittrack-ai",
+      "productionUrl": "https://fittrack-ai-rho.vercel.app",
+      "framework": "Next.js",
+      "repositoryId": "repo-1791690483611",
+      "repositoryName": "Akshat-churi/Fittrack-AI",
+      "repositoryUrl": "https://github.com/Akshat-churi/Fittrack-AI",
+      "deploymentProvider": "vercel",
+      "deploymentProjectId": "deploy_prj_1791690483611",
+      "defaultBranch": "main",
+      "status": "production_healthy",
+      "ownershipStatus": "verified",
+      "ownerId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+      "ownerEmail": "akshatchuri699@gmail.com",
+      "ownerName": "Akshat Churi",
+      "collaborators": [
+        {
+          "id": "collab-1791690483611",
+          "projectId": "proj-1791690483611",
+          "userId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+          "user": {
+            "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+            "name": "Akshat Churi",
+            "email": "akshatchuri699@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+            "role": "owner",
+            "cursorColor": "#6366F1",
+            "timezone": "UTC"
+          },
+          "role": "owner",
+          "joinedAt": "2026-10-11T03:48:03.611Z"
+        },
+        {
+          "id": "collab-1791691345054",
+          "projectId": "proj-1791690483611",
+          "userId": "user_3KVMPWhmtOIcTtwG55PBpenNQ3B",
+          "user": {
+            "id": "user_3KVMPWhmtOIcTtwG55PBpenNQ3B",
+            "name": "Tuhin",
+            "email": "kainetica007@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZNUFZlV3JYbnliTml2N0VOck9sak54cm4ifQ",
+            "role": "developer",
+            "cursorColor": "#EC4899",
+            "timezone": "UTC"
+          },
+          "role": "developer",
+          "joinedAt": "2026-10-11T04:02:25.054Z"
+        }
+      ],
+      "verifiedAt": "2026-10-11T03:48:03.611Z",
+      "createdAt": "2026-10-11T03:48:03.611Z",
+      "updatedAt": "2026-10-12T06:40:53.606Z"
+    },
+    {
+      "id": "proj-1791666347736",
+      "workspaceId": "ws-prod-1",
+      "name": "Curastyl PitchX VCET",
+      "slug": "curastyl-pitchx-vcet",
+      "productionUrl": "https://curastyl-vcet.vercel.app",
+      "framework": "Next.js",
+      "repositoryId": "repo-1791666347736",
+      "repositoryName": "Shreyas04venom/curastyl-pitchX-VCET",
+      "repositoryUrl": "https://github.com/Shreyas04venom/curastyl-pitchX-VCET",
+      "deploymentProvider": "vercel",
+      "deploymentProjectId": "deploy_prj_1791666347736",
+      "defaultBranch": "main",
+      "status": "production_healthy",
+      "ownershipStatus": "verified",
+      "ownerId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "ownerEmail": "shreyasmahajan0306@gmail.com",
+      "ownerName": "Shreyas Mahajan",
+      "collaborators": [
+        {
+          "id": "collab-1791666347736",
+          "projectId": "proj-1791666347736",
+          "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+          "user": {
+            "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+            "name": "Shreyas Mahajan",
+            "email": "shreyasmahajan0306@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+            "role": "owner",
+            "cursorColor": "#6366F1",
+            "timezone": "UTC"
+          },
+          "role": "owner",
+          "joinedAt": "2026-10-10T21:05:47.736Z"
+        },
+        {
+          "id": "collab-1791675085989",
+          "projectId": "proj-1791666347736",
+          "userId": "user_3KVMPWhmtOIcTtwG55PBpenNQ3B",
+          "user": {
+            "id": "user_3KVMPWhmtOIcTtwG55PBpenNQ3B",
+            "name": "Tuhin",
+            "email": "kainetica007@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZNUFZlV3JYbnliTml2N0VOck9sak54cm4ifQ",
+            "role": "developer",
+            "cursorColor": "#EC4899",
+            "timezone": "UTC"
+          },
+          "role": "developer",
+          "joinedAt": "2026-10-10T23:31:25.989Z"
+        }
+      ],
+      "verifiedAt": "2026-10-10T21:05:47.736Z",
+      "createdAt": "2026-10-10T21:05:47.736Z",
+      "updatedAt": "2026-10-10T21:52:09.216Z"
+    },
+    {
+      "id": "proj-1790620936435",
+      "workspaceId": "ws-prod-1",
+      "name": "CertGuard",
+      "slug": "certguard",
+      "productionUrl": "https://cert-guard.vercel.app",
+      "framework": "Next.js",
+      "repositoryId": "repo-1790620936435",
+      "repositoryName": "codevivan/CertGuard",
+      "repositoryUrl": "https://github.com/codevivan/CertGuard",
+      "deploymentProvider": "vercel",
+      "deploymentProjectId": "deploy_prj_1790620936435",
+      "defaultBranch": "main",
+      "status": "production_healthy",
+      "ownershipStatus": "verified",
+      "ownerId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+      "ownerEmail": "vivanshetty45@gmail.com",
+      "ownerName": "vivan",
+      "collaborators": [
+        {
+          "id": "collab-cert-1",
+          "projectId": "proj-1790620936435",
+          "userId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+          "user": {
+            "id": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+            "name": "vivan",
+            "email": "vivanshetty45@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZiQmk1Mk96aTZQWXVqYWV6TTZzV25ScTQifQ",
+            "role": "owner",
+            "cursorColor": "#6366F1",
+            "timezone": "Asia/Calcutta"
+          },
+          "role": "owner",
+          "joinedAt": "2026-09-28T18:42:16.435Z"
+        }
+      ],
+      "verifiedAt": "2026-09-28T18:42:16.435Z",
+      "createdAt": "2026-09-28T18:42:16.435Z",
+      "updatedAt": "2026-09-28T18:42:16.435Z"
+    },
+    {
+      "id": "proj-1790620916375",
+      "workspaceId": "ws-prod-1",
+      "name": "Styler2",
+      "slug": "styler2",
+      "productionUrl": "",
+      "framework": "Next.js",
+      "repositoryId": "repo-1790620916375",
+      "repositoryName": "TuhinJalui/Styler2",
+      "repositoryUrl": "https://github.com/TuhinJalui/Styler2",
+      "deploymentProvider": "vercel",
+      "deploymentProjectId": "deploy_prj_1790620916375",
+      "defaultBranch": "main",
+      "status": "production_healthy",
+      "ownershipStatus": "verified",
+      "ownerId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+      "ownerEmail": "vivanshetty45@gmail.com",
+      "ownerName": "vivan",
+      "collaborators": [
+        {
+          "id": "collab-style-1",
+          "projectId": "proj-1790620916375",
+          "userId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+          "user": {
+            "id": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+            "name": "vivan",
+            "email": "vivanshetty45@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZiQmk1Mk96aTZQWXVqYWV6TTZzV25ScTQifQ",
+            "role": "owner",
+            "cursorColor": "#6366F1",
+            "timezone": "Asia/Calcutta"
+          },
+          "role": "owner",
+          "joinedAt": "2026-09-28T18:41:56.375Z"
+        }
+      ],
+      "verifiedAt": "2026-09-28T18:41:56.375Z",
+      "createdAt": "2026-09-28T18:41:56.375Z",
+      "updatedAt": "2026-09-28T18:41:56.375Z"
+    },
+    {
+      "id": "proj-1790620814341",
+      "workspaceId": "ws-prod-1",
+      "name": "FinQuest",
+      "slug": "finquest",
+      "productionUrl": "https://hook-shush-37808004.figma.site/",
+      "framework": "Next.js",
+      "repositoryId": "repo-1790620814341",
+      "repositoryName": "TuhinJalui/FinQuest",
+      "repositoryUrl": "https://github.com/TuhinJalui/FinQuest",
+      "deploymentProvider": "vercel",
+      "deploymentProjectId": "deploy_prj_1790620814341",
+      "defaultBranch": "main",
+      "status": "production_healthy",
+      "ownershipStatus": "verified",
+      "ownerId": "user_3KVoQiSzvWlYwMbQ2RIctnosgGh",
+      "ownerEmail": "tapu3983@gmail.com",
+      "ownerName": "tapu",
+      "collaborators": [
+        {
+          "id": "collab-fin-1",
+          "projectId": "proj-1790620814341",
+          "userId": "user_3KVoQiSzvWlYwMbQ2RIctnosgGh",
+          "user": {
+            "id": "user_3KVoQiSzvWlYwMbQ2RIctnosgGh",
+            "name": "tapu",
+            "email": "tapu3983@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZvUWpSN2JwSXBWdDc1aUV4UjRIcmVRT04ifQ",
+            "role": "owner",
+            "cursorColor": "#10B981",
+            "timezone": "Asia/Calcutta"
+          },
+          "role": "owner",
+          "joinedAt": "2026-09-28T18:40:14.341Z"
+        }
+      ],
+      "verifiedAt": "2026-09-28T18:40:14.341Z",
+      "createdAt": "2026-09-28T18:40:14.341Z",
+      "updatedAt": "2026-09-28T18:40:14.341Z"
+    },
+    {
+      "id": "proj-1790615624295",
+      "workspaceId": "ws-prod-1",
+      "name": "Silence Classroom",
+      "slug": "silence-classroom",
+      "productionUrl": "https://silence-classroom.agnidev.me",
+      "framework": "Next.js",
+      "repositoryId": "repo-1790615624295",
+      "repositoryName": "Shreyas04venom/silence-classroom",
+      "repositoryUrl": "https://github.com/Shreyas04venom/silence-classroom",
+      "deploymentProvider": "vercel",
+      "deploymentProjectId": "deploy_prj_1790615624295",
+      "defaultBranch": "main",
+      "status": "production_healthy",
+      "ownershipStatus": "verified",
+      "ownerId": "user_3KVoQiSzvWlYwMbQ2RIctnosgGh",
+      "ownerEmail": "tapu3983@gmail.com",
+      "ownerName": "tapu",
+      "collaborators": [
+        {
+          "id": "collab-silence-1",
+          "projectId": "proj-1790615624295",
+          "userId": "user_3KVoQiSzvWlYwMbQ2RIctnosgGh",
+          "user": {
+            "id": "user_3KVoQiSzvWlYwMbQ2RIctnosgGh",
+            "name": "tapu",
+            "email": "tapu3983@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZvUWpSN2JwSXBWdDc1aUV4UjRIcmVRT04ifQ",
+            "role": "owner",
+            "cursorColor": "#10B981",
+            "timezone": "Asia/Calcutta"
+          },
+          "role": "owner",
+          "joinedAt": "2026-09-28T17:13:44.298Z"
+        }
+      ],
+      "verifiedAt": "2026-09-28T17:13:44.297Z",
+      "createdAt": "2026-09-28T17:13:44.298Z",
+      "updatedAt": "2026-09-28T17:13:44.298Z"
+    },
+    {
+      "id": "test-proj-999",
+      "name": "Test Project",
+      "slug": "test-proj-999",
+      "productionUrl": "",
+      "framework": "Next.js",
+      "repositoryId": "repo-1791665837267",
+      "repositoryName": "project",
+      "repositoryUrl": "",
+      "deploymentProvider": "vercel",
+      "deploymentProjectId": "deploy-1791665837267",
+      "defaultBranch": "main",
+      "createdAt": "2026-10-10T20:57:17.267Z",
+      "updatedAt": "2026-10-10T20:57:17.267Z",
+      "environments": [
+        "production",
+        "preview",
+        "development"
+      ],
+      "ownerId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+      "ownerName": "vivan",
+      "ownerEmail": "vivanshetty45@gmail.com",
+      "collaborators": []
+    }
+  ],
+  "patches": [
+    {
+      "id": "PW-113",
+      "projectId": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "title": "feat(visual): polish layout and styles via Axon Extension",
+      "description": "Git commit 0aa2c11 dispatched from Axon Chrome Extension directly to main",
+      "status": "DEPLOYED",
+      "riskLevel": "LOW",
+      "branchName": "main",
+      "commitSha": "0aa2c11",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 14,
+          "deletions": 2,
+          "diffSummary": "Applied production visual style overrides",
+          "oldContent": "/* production base styles */",
+          "newContent": "/* axon live hotfix overrides */"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-10-12T06:40:53.606Z",
+      "updatedAt": "2026-10-12T06:40:53.606Z",
+      "aiSummary": {
+        "explanation": "Staged and committed 1 visual AST changes directly into Git branch main.",
+        "why": "Immediate visual production hotfix applied via Axon Visual Inspector.",
+        "affectedComponents": [
+          "Visual DOM Styles",
+          "src/styles/overrides.css"
+        ],
+        "potentialRisks": [
+          "Verify mobile breakpoint scaling"
+        ],
+        "dependencies": [
+          "DOM Token Sync"
+        ]
+      }
+    },
+    {
+      "id": "PW-112",
+      "projectId": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "title": "feat(visual): polish layout and styles via Axon Extension",
+      "description": "Git commit 35579a3 dispatched from Axon Chrome Extension directly to main",
+      "status": "DEPLOYED",
+      "riskLevel": "LOW",
+      "branchName": "main",
+      "commitSha": "35579a3",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 14,
+          "deletions": 2,
+          "diffSummary": "Applied production visual style overrides",
+          "oldContent": "/* production base styles */",
+          "newContent": "/* axon live hotfix overrides */"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-10-11T07:35:14.047Z",
+      "updatedAt": "2026-10-11T07:35:14.047Z",
+      "aiSummary": {
+        "explanation": "Staged and committed 1 visual AST changes directly into Git branch main.",
+        "why": "Immediate visual production hotfix applied via Axon Visual Inspector.",
+        "affectedComponents": [
+          "Visual DOM Styles",
+          "src/styles/overrides.css"
+        ],
+        "potentialRisks": [
+          "Verify mobile breakpoint scaling"
+        ],
+        "dependencies": [
+          "DOM Token Sync"
+        ]
+      }
+    },
+    {
+      "id": "PW-111",
+      "projectId": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user-1791703455949",
+        "name": "Shreyas Mahajan",
+        "email": "shreyas@axon.dev",
+        "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Shreyas%20Mahajan",
+        "role": "developer",
+        "cursorColor": "#10B981",
+        "timezone": "UTC"
+      },
+      "title": "Header Navbar Hotfix",
+      "description": "Captured live styles for navbar layout",
+      "status": "APPROVED",
+      "riskLevel": "LOW",
+      "branchName": "axon/pw-111",
+      "commitSha": "41312d6",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/navbar.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 10,
+          "deletions": 2,
+          "oldContent": ".nav { height: 60px; }",
+          "newContent": ".nav { height: 72px; background: #0f172a; }",
+          "diffSummary": "Adjusted header navbar height & background"
+        }
+      ],
+      "comments": [],
+      "reviews": [
+        {
+          "id": "rev-1791703957308",
+          "patchId": "PW-111",
+          "author": {
+            "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+            "name": "Akshat Churi",
+            "email": "akshatchuri699@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+            "role": "owner",
+            "cursorColor": "#6366F1",
+            "timezone": "Asia/Calcutta",
+            "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+            "githubUsername": "akshat-churi"
+          },
+          "status": "APPROVED",
+          "comment": "Visual diff looks pristine. Approved for production.",
+          "createdAt": "2026-10-11T07:32:37.308Z"
+        },
+        {
+          "id": "rev-1791703710857",
+          "patchId": "PW-111",
+          "author": {
+            "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+            "name": "Akshat Churi",
+            "email": "akshatchuri699@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+            "role": "owner",
+            "cursorColor": "#6366F1",
+            "timezone": "Asia/Calcutta",
+            "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+            "githubUsername": "akshat-churi"
+          },
+          "status": "CHANGES_REQUESTED",
+          "comment": "Please adjust contrast.",
+          "createdAt": "2026-10-11T07:28:30.857Z"
+        },
+        {
+          "id": "rev-1791703710842",
+          "patchId": "PW-111",
+          "author": {
+            "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+            "name": "Akshat Churi",
+            "email": "akshatchuri699@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+            "role": "owner",
+            "cursorColor": "#6366F1",
+            "timezone": "Asia/Calcutta",
+            "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+            "githubUsername": "akshat-churi"
+          },
+          "status": "APPROVED",
+          "comment": "Primacy verified and accepted by owner.",
+          "createdAt": "2026-10-11T07:28:30.842Z"
+        }
+      ],
+      "source": "extension",
+      "createdAt": "2026-10-11T07:24:15.950Z",
+      "updatedAt": "2026-10-11T07:32:37.308Z",
+      "aiSummary": {
+        "explanation": "Captured 1 visual UI file modification(s) directly from browser inspector.",
+        "why": "Captured live styles for navbar layout",
+        "affectedComponents": [
+          "Viewport View",
+          "Design Tokens"
+        ],
+        "potentialRisks": [
+          "Verify cross-browser contrast & responsive viewport breakpoints"
+        ],
+        "dependencies": [
+          "CSS/DOM inline overrides"
+        ]
+      }
+    },
+    {
+      "id": "PW-110",
+      "projectId": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "title": "Visual DOM tweak & styling hotfix",
+      "description": "Visual adjustments made via Axon browser inspector. Ready for automated verification & team review.",
+      "status": "SUBMITTED",
+      "riskLevel": "LOW",
+      "branchName": "axon/pw-110",
+      "commitSha": "5e7a707",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 14,
+          "deletions": 4,
+          "oldContent": "/* Baseline Styles (Production) */\n.hero-container {\n  padding: 24px;\n  background: #ffffff;\n  color: #1e293b;\n  border-radius: 8px;\n}\n\n.cta-button {\n  background-color: #2563eb;\n  color: #ffffff;\n  font-size: 14px;\n  padding: 10px 20px;\n  border-radius: 6px;\n}",
+          "newContent": "/* Live Visual Hotfix via Axon Inspector */\n.hero-container {\n  padding: 32px;\n  background: linear-gradient(135deg, #0f172a, #1e1b4b);\n  color: #f8fafc;\n  border-radius: 12px;\n  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);\n}\n\n.cta-button {\n  background: linear-gradient(135deg, #4f46e5, #6366f1);\n  color: #ffffff;\n  font-size: 15px;\n  font-weight: 700;\n  padding: 12px 24px;\n  border-radius: 10px;\n  box-shadow: 0 4px 14px rgba(79, 70, 229, 0.4);\n}",
+          "diffSummary": "Visual changes: production DOM & styling overrides"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-10-11T06:14:51.900Z",
+      "updatedAt": "2026-10-11T06:14:51.900Z",
+      "aiSummary": {
+        "explanation": "Captured 1 visual UI modifications directly from the browser viewport.",
+        "why": "Production visual hotfix staged via Axon Chrome Extension.",
+        "affectedComponents": [
+          "Viewport View",
+          "Design Tokens"
+        ],
+        "potentialRisks": [
+          "Verify cross-browser contrast & responsive viewport breakpoints"
+        ],
+        "dependencies": [
+          "CSS/DOM inline overrides"
+        ]
+      }
+    },
+    {
+      "id": "PW-109",
+      "projectId": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "title": "Visual DOM tweak & styling hotfix",
+      "description": "Visual adjustments made via Axon browser inspector. Ready for automated verification & team review.",
+      "status": "APPROVED",
+      "riskLevel": "LOW",
+      "branchName": "axon/pw-109",
+      "commitSha": "c9c6e81",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 14,
+          "deletions": 4,
+          "oldContent": "/* Baseline Styles (Production) */\n.hero-container {\n  padding: 24px;\n  background: #ffffff;\n  color: #1e293b;\n  border-radius: 8px;\n}\n\n.cta-button {\n  background-color: #2563eb;\n  color: #ffffff;\n  font-size: 14px;\n  padding: 10px 20px;\n  border-radius: 6px;\n}",
+          "newContent": "/* Live Visual Hotfix via Axon Inspector */\n.hero-container {\n  padding: 32px;\n  background: linear-gradient(135deg, #0f172a, #1e1b4b);\n  color: #f8fafc;\n  border-radius: 12px;\n  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);\n}\n\n.cta-button {\n  background: linear-gradient(135deg, #4f46e5, #6366f1);\n  color: #ffffff;\n  font-size: 15px;\n  font-weight: 700;\n  padding: 12px 24px;\n  border-radius: 10px;\n  box-shadow: 0 4px 14px rgba(79, 70, 229, 0.4);\n}",
+          "diffSummary": "Visual changes: production DOM & styling overrides"
+        }
+      ],
+      "comments": [],
+      "reviews": [
+        {
+          "id": "rev-1791704016786",
+          "patchId": "PW-109",
+          "author": {
+            "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+            "name": "Akshat Churi",
+            "email": "akshatchuri699@gmail.com",
+            "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+            "role": "owner",
+            "cursorColor": "#6366F1",
+            "timezone": "Asia/Calcutta",
+            "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+            "githubUsername": "akshat-churi"
+          },
+          "status": "APPROVED",
+          "comment": "Visual diff looks pristine. Approved for production.",
+          "createdAt": "2026-10-11T07:33:36.786Z"
+        }
+      ],
+      "source": "extension",
+      "createdAt": "2026-10-11T05:21:49.696Z",
+      "updatedAt": "2026-10-11T07:33:36.786Z",
+      "aiSummary": {
+        "explanation": "Captured 1 visual UI modifications directly from the browser viewport.",
+        "why": "Production visual hotfix staged via Axon Chrome Extension.",
+        "affectedComponents": [
+          "Viewport View",
+          "Design Tokens"
+        ],
+        "potentialRisks": [
+          "Verify cross-browser contrast & responsive viewport breakpoints"
+        ],
+        "dependencies": [
+          "CSS/DOM inline overrides"
+        ]
+      }
+    },
+    {
+      "id": "PW-108",
+      "projectId": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "title": "Visual DOM tweak & styling hotfix",
+      "description": "Visual adjustments made via Axon browser inspector. Ready for automated verification & team review.",
+      "status": "SUBMITTED",
+      "riskLevel": "LOW",
+      "branchName": "axon/pw-108",
+      "commitSha": "9906f60",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 14,
+          "deletions": 4,
+          "oldContent": "/* Baseline Styles (Production) */\n.hero-container {\n  padding: 24px;\n  background: #ffffff;\n  color: #1e293b;\n  border-radius: 8px;\n}\n\n.cta-button {\n  background-color: #2563eb;\n  color: #ffffff;\n  font-size: 14px;\n  padding: 10px 20px;\n  border-radius: 6px;\n}",
+          "newContent": "/* Live Visual Hotfix via Axon Inspector */\n.hero-container {\n  padding: 32px;\n  background: linear-gradient(135deg, #0f172a, #1e1b4b);\n  color: #f8fafc;\n  border-radius: 12px;\n  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);\n}\n\n.cta-button {\n  background: linear-gradient(135deg, #4f46e5, #6366f1);\n  color: #ffffff;\n  font-size: 15px;\n  font-weight: 700;\n  padding: 12px 24px;\n  border-radius: 10px;\n  box-shadow: 0 4px 14px rgba(79, 70, 229, 0.4);\n}",
+          "diffSummary": "Visual changes: production DOM & styling overrides"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-10-11T05:19:35.700Z",
+      "updatedAt": "2026-10-11T05:19:35.700Z",
+      "aiSummary": {
+        "explanation": "Captured 1 visual UI modifications directly from the browser viewport.",
+        "why": "Production visual hotfix staged via Axon Chrome Extension.",
+        "affectedComponents": [
+          "Viewport View",
+          "Design Tokens"
+        ],
+        "potentialRisks": [
+          "Verify cross-browser contrast & responsive viewport breakpoints"
+        ],
+        "dependencies": [
+          "CSS/DOM inline overrides"
+        ]
+      }
+    },
+    {
+      "id": "PW-107",
+      "projectId": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "title": "Visual DOM tweak & styling hotfix",
+      "description": "Visual adjustments made via Axon browser inspector. Ready for automated verification & team review.",
+      "status": "SUBMITTED",
+      "riskLevel": "LOW",
+      "branchName": "axon/pw-107",
+      "commitSha": "25c07ce",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 14,
+          "deletions": 4,
+          "oldContent": "/* Baseline Styles (Production) */\n.hero-container {\n  padding: 24px;\n  background: #ffffff;\n  color: #1e293b;\n  border-radius: 8px;\n}\n\n.cta-button {\n  background-color: #2563eb;\n  color: #ffffff;\n  font-size: 14px;\n  padding: 10px 20px;\n  border-radius: 6px;\n}",
+          "newContent": "/* Live Visual Hotfix via Axon Inspector */\n.hero-container {\n  padding: 32px;\n  background: linear-gradient(135deg, #0f172a, #1e1b4b);\n  color: #f8fafc;\n  border-radius: 12px;\n  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);\n}\n\n.cta-button {\n  background: linear-gradient(135deg, #4f46e5, #6366f1);\n  color: #ffffff;\n  font-size: 15px;\n  font-weight: 700;\n  padding: 12px 24px;\n  border-radius: 10px;\n  box-shadow: 0 4px 14px rgba(79, 70, 229, 0.4);\n}",
+          "diffSummary": "Visual changes: production DOM & styling overrides"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-10-11T05:17:15.394Z",
+      "updatedAt": "2026-10-11T05:17:15.394Z",
+      "aiSummary": {
+        "explanation": "Captured 1 visual UI modifications directly from the browser viewport.",
+        "why": "Production visual hotfix staged via Axon Chrome Extension.",
+        "affectedComponents": [
+          "Viewport View",
+          "Design Tokens"
+        ],
+        "potentialRisks": [
+          "Verify cross-browser contrast & responsive viewport breakpoints"
+        ],
+        "dependencies": [
+          "CSS/DOM inline overrides"
+        ]
+      }
+    },
+    {
+      "id": "PW-106",
+      "projectId": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "title": "Visual DOM tweak & styling hotfix",
+      "description": "Visual adjustments made via Axon browser inspector. Ready for automated verification & team review.",
+      "status": "SUBMITTED",
+      "riskLevel": "LOW",
+      "branchName": "axon/pw-106",
+      "commitSha": "5743115",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 14,
+          "deletions": 4,
+          "oldContent": "/* Baseline Styles (Production) */\n.hero-container {\n  padding: 24px;\n  background: #ffffff;\n  color: #1e293b;\n  border-radius: 8px;\n}\n\n.cta-button {\n  background-color: #2563eb;\n  color: #ffffff;\n  font-size: 14px;\n  padding: 10px 20px;\n  border-radius: 6px;\n}",
+          "newContent": "/* Live Visual Hotfix via Axon Inspector */\n.hero-container {\n  padding: 32px;\n  background: linear-gradient(135deg, #0f172a, #1e1b4b);\n  color: #f8fafc;\n  border-radius: 12px;\n  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);\n}\n\n.cta-button {\n  background: linear-gradient(135deg, #4f46e5, #6366f1);\n  color: #ffffff;\n  font-size: 15px;\n  font-weight: 700;\n  padding: 12px 24px;\n  border-radius: 10px;\n  box-shadow: 0 4px 14px rgba(79, 70, 229, 0.4);\n}",
+          "diffSummary": "Visual changes: production DOM & styling overrides"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-10-11T05:15:29.740Z",
+      "updatedAt": "2026-10-11T05:15:29.740Z",
+      "aiSummary": {
+        "explanation": "Captured 1 visual UI modifications directly from the browser viewport.",
+        "why": "Production visual hotfix staged via Axon Chrome Extension.",
+        "affectedComponents": [
+          "Viewport View",
+          "Design Tokens"
+        ],
+        "potentialRisks": [
+          "Verify cross-browser contrast & responsive viewport breakpoints"
+        ],
+        "dependencies": [
+          "CSS/DOM inline overrides"
+        ]
+      }
+    },
+    {
+      "id": "PW-105",
+      "projectId": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "title": "feat(visual): polish layout and styles via Axon Extension",
+      "description": "Git commit 0057af2 dispatched from Axon Chrome Extension directly to main",
+      "status": "DEPLOYED",
+      "riskLevel": "LOW",
+      "branchName": "main",
+      "commitSha": "0057af2",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 14,
+          "deletions": 2,
+          "diffSummary": "Applied production visual style overrides",
+          "oldContent": "/* production base styles */",
+          "newContent": "/* axon live hotfix overrides */"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-10-11T04:27:05.312Z",
+      "updatedAt": "2026-10-11T04:27:05.312Z",
+      "aiSummary": {
+        "explanation": "Staged and committed 1 visual AST changes directly into Git branch main.",
+        "why": "Immediate visual production hotfix applied via Axon Visual Inspector.",
+        "affectedComponents": [
+          "Visual DOM Styles",
+          "src/styles/overrides.css"
+        ],
+        "potentialRisks": [
+          "Verify mobile breakpoint scaling"
+        ],
+        "dependencies": [
+          "DOM Token Sync"
+        ]
+      }
+    },
+    {
+      "id": "PW-104",
+      "projectId": "proj-1791690483611",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "title": "Visual DOM tweak & styling hotfix",
+      "description": "Visual adjustments made via Axon browser inspector. Ready for automated verification & team review.",
+      "status": "SUBMITTED",
+      "riskLevel": "LOW",
+      "branchName": "axon/pw-104",
+      "commitSha": "40ac0b9",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 8,
+          "deletions": 0,
+          "diffSummary": "Applied style modifications to production DOM elements"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-10-11T04:13:22.798Z",
+      "updatedAt": "2026-10-11T04:13:22.798Z",
+      "aiSummary": {
+        "explanation": "Captured 1 visual UI modifications directly from the browser viewport.",
+        "why": "Production visual hotfix staged via Axon Chrome Extension.",
+        "affectedComponents": [
+          "Viewport View",
+          "Design Tokens"
+        ],
+        "potentialRisks": [
+          "Verify cross-browser contrast & responsive viewport breakpoints"
+        ],
+        "dependencies": [
+          "CSS/DOM inline overrides"
+        ]
+      }
+    },
+    {
+      "id": "PW-103",
+      "projectId": "proj-1791666347736",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "title": "Visual DOM tweak & styling hotfix",
+      "description": "Visual adjustments made via Axon browser inspector. Ready for automated verification & team review.",
+      "status": "SUBMITTED",
+      "riskLevel": "LOW",
+      "branchName": "axon/pw-103",
+      "commitSha": "95723a2",
+      "previewUrl": "https://curastyl-vcet.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 8,
+          "deletions": 0,
+          "diffSummary": "Applied style modifications to production DOM elements"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-10-10T23:34:54.041Z",
+      "updatedAt": "2026-10-10T23:34:54.041Z",
+      "aiSummary": {
+        "explanation": "Captured 1 visual UI modifications directly from the browser viewport.",
+        "why": "Production visual hotfix staged via Axon Chrome Extension.",
+        "affectedComponents": [
+          "Viewport View",
+          "Design Tokens"
+        ],
+        "potentialRisks": [
+          "Verify cross-browser contrast & responsive viewport breakpoints"
+        ],
+        "dependencies": [
+          "CSS/DOM inline overrides"
+        ]
+      }
+    },
+    {
+      "id": "PW-102",
+      "projectId": "proj-1791666347736",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "title": "test: verify real git add commit and push pipeline",
+      "description": "Git commit 8202be9 dispatched from Axon Chrome Extension directly to main",
+      "status": "DEPLOYED",
+      "riskLevel": "LOW",
+      "branchName": "main",
+      "commitSha": "8202be9",
+      "previewUrl": "https://curastyl-vcet.vercel.app",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 14,
+          "deletions": 2,
+          "diffSummary": "Committed visual DOM styling and token overrides via Axon Extension [8202be9]"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-10-10T21:52:09.213Z",
+      "updatedAt": "2026-10-10T21:52:09.213Z",
+      "aiSummary": {
+        "explanation": "Staged and committed 1 visual AST changes directly into Git branch main.",
+        "why": "Immediate visual production hotfix applied via Axon Visual Inspector.",
+        "affectedComponents": [
+          "Visual DOM Styles",
+          "src/styles/overrides.css"
+        ],
+        "potentialRisks": [
+          "Verify mobile breakpoint scaling"
+        ],
+        "dependencies": [
+          "DOM Token Sync"
+        ]
+      }
+    },
+    {
+      "id": "PW-101",
+      "projectId": "proj-live",
+      "workspaceId": "ws-prod-1",
+      "author": {
+        "id": "usr-owner-1",
+        "name": "Workspace Lead",
+        "email": "developer@axon.dev",
+        "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Axon",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "UTC"
+      },
+      "title": "feat(visual): style overrides applied via Axon Chrome Extension",
+      "description": "Git commit 4ccab97 dispatched from Axon Chrome Extension directly to main",
+      "status": "DEPLOYED",
+      "riskLevel": "LOW",
+      "branchName": "main",
+      "commitSha": "4ccab97",
+      "previewUrl": "http://localhost:3000",
+      "files": [
+        {
+          "filename": "src/styles/overrides.css",
+          "category": "frontend",
+          "changeType": "modified",
+          "additions": 14,
+          "deletions": 2,
+          "diffSummary": "Applied production visual style overrides",
+          "oldContent": "/* production base styles */",
+          "newContent": "/* axon live hotfix overrides */"
+        }
+      ],
+      "comments": [],
+      "reviews": [],
+      "source": "extension",
+      "createdAt": "2026-09-28T17:00:35.785Z",
+      "updatedAt": "2026-09-28T17:00:35.785Z",
+      "aiSummary": {
+        "explanation": "Staged and committed 1 visual AST changes directly into Git branch main.",
+        "why": "Immediate visual production hotfix applied via Axon Visual Inspector.",
+        "affectedComponents": [
+          "Visual DOM Styles",
+          "CSS Overrides"
+        ],
+        "potentialRisks": [
+          "Verify mobile breakpoint scaling"
+        ],
+        "dependencies": [
+          "DOM Token Sync"
+        ]
+      }
+    }
+  ],
+  "collaborators": [
+    {
+      "id": "mem-1",
+      "workspaceId": "ws-prod-1",
+      "userId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+      "user": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "role": "owner",
+      "joinedAt": "2026-09-28T13:42:47.234Z",
+      "status": "active"
+    },
+    {
+      "id": "mem-1790610102787",
+      "workspaceId": "ws-prod-1",
+      "userId": "usr-1790610102788",
+      "user": {
+        "id": "usr-1790610102788",
+        "name": "Vivan Shetty",
+        "email": "vivanshetty45@gmail.com",
+        "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Vivan%20Shetty",
+        "role": "developer",
+        "cursorColor": "#EC4899",
+        "timezone": "UTC"
+      },
+      "role": "developer",
+      "joinedAt": "2026-09-28T15:41:42.788Z",
+      "status": "active"
+    },
+    {
+      "id": "mem-1790610637744",
+      "workspaceId": "ws-prod-1",
+      "userId": "usr-1790610637745",
+      "user": {
+        "id": "usr-1790610637745",
+        "name": "akshat churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=akshat%20churi",
+        "role": "viewer",
+        "cursorColor": "#10B981",
+        "timezone": "UTC"
+      },
+      "role": "viewer",
+      "joinedAt": "2026-09-28T15:50:37.745Z",
+      "status": "active"
+    },
+    {
+      "id": "mem-1791669209679",
+      "workspaceId": "ws-prod-1",
+      "userId": "usr-friend-99",
+      "user": {
+        "id": "usr-friend-99",
+        "name": "Rahul Sharma",
+        "email": "friend.testing@gmail.com",
+        "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Rahul%20Sharma",
+        "role": "developer",
+        "cursorColor": "#EC4899",
+        "timezone": "UTC"
+      },
+      "role": "developer",
+      "joinedAt": "2026-10-10T21:53:29.679Z",
+      "status": "active"
+    },
+    {
+      "id": "mem-1791675085990",
+      "workspaceId": "ws-prod-1",
+      "userId": "user_3KVMPWhmtOIcTtwG55PBpenNQ3B",
+      "user": {
+        "id": "user_3KVMPWhmtOIcTtwG55PBpenNQ3B",
+        "name": "Tuhin",
+        "email": "kainetica007@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZNUFZlV3JYbnliTml2N0VOck9sak54cm4ifQ",
+        "role": "developer",
+        "cursorColor": "#EC4899",
+        "timezone": "UTC"
+      },
+      "role": "developer",
+      "joinedAt": "2026-10-10T23:31:25.991Z",
+      "status": "active"
+    }
+  ],
+  "extensionSessions": [
+    {
+      "id": "ext-sess-1791696207359",
+      "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Inspector Client",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "token": "axon_ext_tok_1791696207359_k9rpgleu",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-11T05:23:27.360Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-10T05:23:27.360Z"
+    },
+    {
+      "id": "ext-sess-1791694746317",
+      "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Inspector Client",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "token": "axon_ext_tok_1791694746317_gv4rwcit",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-11T04:59:06.317Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-10T04:59:06.317Z"
+    },
+    {
+      "id": "ext-sess-1791692657580",
+      "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Inspector Client",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "token": "axon_ext_tok_1791692657580_9nhsekbc",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-11T04:24:17.580Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-10T04:24:17.580Z"
+    },
+    {
+      "id": "ext-sess-1791691222820",
+      "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Inspector Client",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "token": "axon_ext_tok_1791691222820_jyrwrxc8",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-11T04:00:22.820Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-10T04:00:22.820Z"
+    },
+    {
+      "id": "ext-sess-1791677247440",
+      "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Inspector Client",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "token": "axon_ext_tok_1791677247440_qf7jl8o4",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-11T00:07:27.440Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-10T00:07:27.440Z"
+    },
+    {
+      "id": "ext-sess-1791675122964",
+      "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Inspector Client",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-10T23:32:02.964Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-09T23:32:02.965Z"
+    },
+    {
+      "id": "ext-sess-1791666501530",
+      "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Inspector Client",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-10T21:08:21.530Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-09T21:08:21.530Z"
+    },
+    {
+      "id": "ext-sess-1791666312153",
+      "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Inspector Client",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-10T21:05:12.153Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-09T21:05:12.153Z"
+    },
+    {
+      "id": "ext-sess-1791666199654",
+      "userId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Inspector Client",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-10T21:03:19.654Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-09T21:03:19.654Z"
+    },
+    {
+      "id": "ext-sess-1791665837308",
+      "userId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Browser",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-10T20:57:17.308Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-09T20:57:17.308Z"
+    },
+    {
+      "id": "ext-sess-1791665837298",
+      "userId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Browser",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-10T20:57:17.298Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-09T20:57:17.298Z"
+    },
+    {
+      "id": "ext-sess-1791665066496",
+      "userId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+      "workspaceId": "ws-prod-1",
+      "deviceName": "Chrome Browser",
+      "browser": "Chrome 129",
+      "tokenHash": "hash_axon_ext_tok_179...",
+      "permissions": [
+        "read:projects",
+        "write:patches",
+        "read:collaborators",
+        "realtime:presence",
+        "audit:events"
+      ],
+      "createdAt": "2026-10-10T20:44:26.496Z",
+      "lastActiveAt": "Just now",
+      "expiresAt": "2026-11-09T20:44:26.496Z"
+    }
+  ],
+  "deployments": [
+    {
+      "id": "DEP-238",
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-113",
+      "environment": "production",
+      "provider": "vercel",
+      "commitSha": "0aa2c11",
+      "branch": "main",
+      "author": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "status": "READY",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "durationSeconds": 19,
+      "createdAt": "2026-10-12T06:40:53.606Z",
+      "logs": [
+        "git add . [completed]",
+        "git commit -m \"feat(visual): polish layout and styles via Axon Extension\" -> 0aa2c11",
+        "git push origin main -> Local verified",
+        "Automated 12-step verification suite passed (99.8% visual similarity)",
+        "Deployment DEP-238 compiled and promoted to Production"
+      ]
+    },
+    {
+      "id": "DEP-511",
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-112",
+      "environment": "production",
+      "provider": "vercel",
+      "commitSha": "35579a3",
+      "branch": "main",
+      "author": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "status": "READY",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "durationSeconds": 19,
+      "createdAt": "2026-10-11T07:35:14.047Z",
+      "logs": [
+        "git add . [completed]",
+        "git commit -m \"feat(visual): polish layout and styles via Axon Extension\" -> 35579a3",
+        "git push origin main -> Local verified",
+        "Automated 12-step verification suite passed (99.8% visual similarity)",
+        "Deployment DEP-511 compiled and promoted to Production"
+      ]
+    },
+    {
+      "id": "DEP-601",
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-111",
+      "environment": "preview",
+      "provider": "vercel",
+      "commitSha": "41312d6",
+      "branch": "axon/pw-111",
+      "author": {
+        "id": "user-1791703455949",
+        "name": "Shreyas Mahajan",
+        "email": "shreyas@axon.dev",
+        "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Shreyas%20Mahajan",
+        "role": "developer",
+        "cursorColor": "#10B981",
+        "timezone": "UTC"
+      },
+      "status": "READY",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "durationSeconds": 22,
+      "createdAt": "2026-10-11T07:24:15.950Z"
+    },
+    {
+      "id": "DEP-786",
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-110",
+      "environment": "preview",
+      "provider": "vercel",
+      "commitSha": "5e7a707",
+      "branch": "axon/pw-110",
+      "author": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "status": "READY",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "durationSeconds": 22,
+      "createdAt": "2026-10-11T06:14:51.900Z"
+    },
+    {
+      "id": "DEP-796",
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-109",
+      "environment": "preview",
+      "provider": "vercel",
+      "commitSha": "c9c6e81",
+      "branch": "axon/pw-109",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "status": "READY",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "durationSeconds": 22,
+      "createdAt": "2026-10-11T05:21:49.697Z"
+    },
+    {
+      "id": "DEP-282",
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-108",
+      "environment": "preview",
+      "provider": "vercel",
+      "commitSha": "9906f60",
+      "branch": "axon/pw-108",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "status": "READY",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "durationSeconds": 22,
+      "createdAt": "2026-10-11T05:19:35.700Z"
+    },
+    {
+      "id": "DEP-120",
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-107",
+      "environment": "preview",
+      "provider": "vercel",
+      "commitSha": "25c07ce",
+      "branch": "axon/pw-107",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "status": "READY",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "durationSeconds": 22,
+      "createdAt": "2026-10-11T05:17:15.394Z"
+    },
+    {
+      "id": "DEP-208",
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-106",
+      "environment": "preview",
+      "provider": "vercel",
+      "commitSha": "5743115",
+      "branch": "axon/pw-106",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "status": "READY",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "durationSeconds": 22,
+      "createdAt": "2026-10-11T05:15:29.740Z"
+    },
+    {
+      "id": "DEP-407",
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-105",
+      "environment": "production",
+      "provider": "vercel",
+      "commitSha": "0057af2",
+      "branch": "main",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "status": "READY",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "durationSeconds": 19,
+      "createdAt": "2026-10-11T04:27:05.312Z",
+      "logs": [
+        "git add . [completed]",
+        "git commit -m \"feat(visual): polish layout and styles via Axon Extension\" -> 0057af2",
+        "git push origin main -> Local verified",
+        "Automated 12-step verification suite passed (99.8% visual similarity)",
+        "Deployment DEP-407 compiled and promoted to Production"
+      ]
+    },
+    {
+      "id": "DEP-541",
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-104",
+      "environment": "preview",
+      "provider": "vercel",
+      "commitSha": "40ac0b9",
+      "branch": "axon/pw-104",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "status": "READY",
+      "previewUrl": "https://fittrack-ai-rho.vercel.app",
+      "durationSeconds": 22,
+      "createdAt": "2026-10-11T04:13:22.798Z"
+    },
+    {
+      "id": "DEP-659",
+      "projectId": "proj-1791666347736",
+      "patchId": "PW-103",
+      "environment": "preview",
+      "provider": "vercel",
+      "commitSha": "95723a2",
+      "branch": "axon/pw-103",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "status": "READY",
+      "previewUrl": "https://curastyl-vcet.vercel.app",
+      "durationSeconds": 22,
+      "createdAt": "2026-10-10T23:34:54.042Z"
+    },
+    {
+      "id": "DEP-497",
+      "projectId": "proj-1791666347736",
+      "patchId": "PW-102",
+      "environment": "production",
+      "provider": "vercel",
+      "commitSha": "8202be9",
+      "branch": "main",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "status": "READY",
+      "previewUrl": "https://curastyl-vcet.vercel.app",
+      "durationSeconds": 19,
+      "createdAt": "2026-10-10T21:52:09.216Z",
+      "logs": [
+        "git add . [completed]",
+        "git commit -m \"test: verify real git add commit and push pipeline\" -> 8202be9",
+        "git push origin main -> Synchronized",
+        "Automated 12-step verification suite passed (99.8% visual similarity)",
+        "Deployment DEP-497 compiled and promoted to Production"
+      ]
+    },
+    {
+      "id": "DEP-720",
+      "projectId": "proj-live",
+      "patchId": "PW-101",
+      "environment": "production",
+      "provider": "vercel",
+      "commitSha": "4ccab97",
+      "branch": "main",
+      "author": {
+        "id": "usr-owner-1",
+        "name": "Workspace Lead",
+        "email": "developer@axon.dev",
+        "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Axon",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "UTC"
+      },
+      "status": "READY",
+      "previewUrl": "http://localhost:3000",
+      "durationSeconds": 19,
+      "createdAt": "2026-09-28T17:00:35.798Z"
+    }
+  ],
+  "verifications": [
+    {
+      "id": "ver-1791787253606-5ofi",
+      "patchId": "PW-113",
+      "projectId": "proj-1791690483611",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-12T06:40:53.606Z",
+      "completedAt": "2026-10-12T06:40:53.606Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Git Commit Verification",
+          "description": "Git add and commit verified on HEAD [0aa2c11]",
+          "status": "passed",
+          "durationMs": 410
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Production Build",
+          "description": "Production bundle compilation and AST integrity",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-4",
+          "stepNumber": 4,
+          "name": "Token Validation",
+          "description": "Design token syntax and CSS variable checking",
+          "status": "passed",
+          "durationMs": 380
+        },
+        {
+          "id": "vc-5",
+          "stepNumber": 5,
+          "name": "Application Health",
+          "description": "HTTP healthcheck returns 200 OK",
+          "status": "passed",
+          "durationMs": 510
+        },
+        {
+          "id": "vc-6",
+          "stepNumber": 6,
+          "name": "DOM Hydration",
+          "description": "DOM ready & hydration complete without errors",
+          "status": "passed",
+          "durationMs": 690
+        },
+        {
+          "id": "vc-7",
+          "stepNumber": 7,
+          "name": "Selector Integrity",
+          "description": "Target selectors matched in DOM tree",
+          "status": "passed",
+          "durationMs": 180
+        },
+        {
+          "id": "vc-8",
+          "stepNumber": 8,
+          "name": "Interaction Tests",
+          "description": "Browser interaction and click listeners verified",
+          "status": "passed",
+          "durationMs": 980
+        },
+        {
+          "id": "vc-9",
+          "stepNumber": 9,
+          "name": "Link Checks",
+          "description": "All href targets reachable",
+          "status": "passed",
+          "durationMs": 820
+        },
+        {
+          "id": "vc-10",
+          "stepNumber": 10,
+          "name": "Responsive Tests",
+          "description": "Viewport matrix: Mobile, Tablet, Desktop passed",
+          "status": "passed",
+          "durationMs": 1900
+        },
+        {
+          "id": "vc-11",
+          "stepNumber": 11,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing (99.8% match)",
+          "status": "passed",
+          "durationMs": 1450
+        },
+        {
+          "id": "vc-12",
+          "stepNumber": 12,
+          "name": "Console Error Detection",
+          "description": "Zero unhandled exceptions or layout shifts",
+          "status": "passed",
+          "durationMs": 250
+        }
+      ]
+    },
+    {
+      "id": "ver-1791704114047-rigw",
+      "patchId": "PW-112",
+      "projectId": "proj-1791690483611",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-11T07:35:14.047Z",
+      "completedAt": "2026-10-11T07:35:14.047Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Git Commit Verification",
+          "description": "Git add and commit verified on HEAD [35579a3]",
+          "status": "passed",
+          "durationMs": 410
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Production Build",
+          "description": "Production bundle compilation and AST integrity",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-4",
+          "stepNumber": 4,
+          "name": "Token Validation",
+          "description": "Design token syntax and CSS variable checking",
+          "status": "passed",
+          "durationMs": 380
+        },
+        {
+          "id": "vc-5",
+          "stepNumber": 5,
+          "name": "Application Health",
+          "description": "HTTP healthcheck returns 200 OK",
+          "status": "passed",
+          "durationMs": 510
+        },
+        {
+          "id": "vc-6",
+          "stepNumber": 6,
+          "name": "DOM Hydration",
+          "description": "DOM ready & hydration complete without errors",
+          "status": "passed",
+          "durationMs": 690
+        },
+        {
+          "id": "vc-7",
+          "stepNumber": 7,
+          "name": "Selector Integrity",
+          "description": "Target selectors matched in DOM tree",
+          "status": "passed",
+          "durationMs": 180
+        },
+        {
+          "id": "vc-8",
+          "stepNumber": 8,
+          "name": "Interaction Tests",
+          "description": "Browser interaction and click listeners verified",
+          "status": "passed",
+          "durationMs": 980
+        },
+        {
+          "id": "vc-9",
+          "stepNumber": 9,
+          "name": "Link Checks",
+          "description": "All href targets reachable",
+          "status": "passed",
+          "durationMs": 820
+        },
+        {
+          "id": "vc-10",
+          "stepNumber": 10,
+          "name": "Responsive Tests",
+          "description": "Viewport matrix: Mobile, Tablet, Desktop passed",
+          "status": "passed",
+          "durationMs": 1900
+        },
+        {
+          "id": "vc-11",
+          "stepNumber": 11,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing (99.8% match)",
+          "status": "passed",
+          "durationMs": 1450
+        },
+        {
+          "id": "vc-12",
+          "stepNumber": 12,
+          "name": "Console Error Detection",
+          "description": "Zero unhandled exceptions or layout shifts",
+          "status": "passed",
+          "durationMs": 250
+        }
+      ]
+    },
+    {
+      "id": "ver-1791703455950-gy7l",
+      "patchId": "PW-111",
+      "projectId": "proj-1791690483611",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-11T07:24:15.950Z",
+      "completedAt": "2026-10-11T07:24:15.950Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Build",
+          "description": "Production bundle compilation",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing",
+          "status": "passed",
+          "durationMs": 1400
+        }
+      ]
+    },
+    {
+      "id": "ver-1791699291900-7i4w",
+      "patchId": "PW-110",
+      "projectId": "proj-1791690483611",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-11T06:14:51.900Z",
+      "completedAt": "2026-10-11T06:14:51.900Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Build",
+          "description": "Production bundle compilation",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing",
+          "status": "passed",
+          "durationMs": 1400
+        }
+      ]
+    },
+    {
+      "id": "ver-1791696109697-jgs7",
+      "patchId": "PW-109",
+      "projectId": "proj-1791690483611",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-11T05:21:49.697Z",
+      "completedAt": "2026-10-11T05:21:49.697Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Build",
+          "description": "Production bundle compilation",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing",
+          "status": "passed",
+          "durationMs": 1400
+        }
+      ]
+    },
+    {
+      "id": "ver-1791695975700-l8xa",
+      "patchId": "PW-108",
+      "projectId": "proj-1791690483611",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-11T05:19:35.700Z",
+      "completedAt": "2026-10-11T05:19:35.700Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Build",
+          "description": "Production bundle compilation",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing",
+          "status": "passed",
+          "durationMs": 1400
+        }
+      ]
+    },
+    {
+      "id": "ver-1791695835394-y5i5",
+      "patchId": "PW-107",
+      "projectId": "proj-1791690483611",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-11T05:17:15.394Z",
+      "completedAt": "2026-10-11T05:17:15.394Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Build",
+          "description": "Production bundle compilation",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing",
+          "status": "passed",
+          "durationMs": 1400
+        }
+      ]
+    },
+    {
+      "id": "ver-1791695729740-m7e7",
+      "patchId": "PW-106",
+      "projectId": "proj-1791690483611",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-11T05:15:29.740Z",
+      "completedAt": "2026-10-11T05:15:29.740Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Build",
+          "description": "Production bundle compilation",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing",
+          "status": "passed",
+          "durationMs": 1400
+        }
+      ]
+    },
+    {
+      "id": "ver-1791692825312-psxv",
+      "patchId": "PW-105",
+      "projectId": "proj-1791690483611",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-11T04:27:05.312Z",
+      "completedAt": "2026-10-11T04:27:05.312Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Git Commit Verification",
+          "description": "Git add and commit verified on HEAD [0057af2]",
+          "status": "passed",
+          "durationMs": 410
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Production Build",
+          "description": "Production bundle compilation and AST integrity",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-4",
+          "stepNumber": 4,
+          "name": "Token Validation",
+          "description": "Design token syntax and CSS variable checking",
+          "status": "passed",
+          "durationMs": 380
+        },
+        {
+          "id": "vc-5",
+          "stepNumber": 5,
+          "name": "Application Health",
+          "description": "HTTP healthcheck returns 200 OK",
+          "status": "passed",
+          "durationMs": 510
+        },
+        {
+          "id": "vc-6",
+          "stepNumber": 6,
+          "name": "DOM Hydration",
+          "description": "DOM ready & hydration complete without errors",
+          "status": "passed",
+          "durationMs": 690
+        },
+        {
+          "id": "vc-7",
+          "stepNumber": 7,
+          "name": "Selector Integrity",
+          "description": "Target selectors matched in DOM tree",
+          "status": "passed",
+          "durationMs": 180
+        },
+        {
+          "id": "vc-8",
+          "stepNumber": 8,
+          "name": "Interaction Tests",
+          "description": "Browser interaction and click listeners verified",
+          "status": "passed",
+          "durationMs": 980
+        },
+        {
+          "id": "vc-9",
+          "stepNumber": 9,
+          "name": "Link Checks",
+          "description": "All href targets reachable",
+          "status": "passed",
+          "durationMs": 820
+        },
+        {
+          "id": "vc-10",
+          "stepNumber": 10,
+          "name": "Responsive Tests",
+          "description": "Viewport matrix: Mobile, Tablet, Desktop passed",
+          "status": "passed",
+          "durationMs": 1900
+        },
+        {
+          "id": "vc-11",
+          "stepNumber": 11,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing (99.8% match)",
+          "status": "passed",
+          "durationMs": 1450
+        },
+        {
+          "id": "vc-12",
+          "stepNumber": 12,
+          "name": "Console Error Detection",
+          "description": "Zero unhandled exceptions or layout shifts",
+          "status": "passed",
+          "durationMs": 250
+        }
+      ]
+    },
+    {
+      "id": "ver-1791692002798-nhuh",
+      "patchId": "PW-104",
+      "projectId": "proj-1791690483611",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-11T04:13:22.798Z",
+      "completedAt": "2026-10-11T04:13:22.798Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Build",
+          "description": "Production bundle compilation",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing",
+          "status": "passed",
+          "durationMs": 1400
+        }
+      ]
+    },
+    {
+      "id": "ver-1791675294043-bzk8",
+      "patchId": "PW-103",
+      "projectId": "proj-1791666347736",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-10T23:34:54.043Z",
+      "completedAt": "2026-10-10T23:34:54.044Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Build",
+          "description": "Production bundle compilation",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing",
+          "status": "passed",
+          "durationMs": 1400
+        }
+      ]
+    },
+    {
+      "id": "ver-1791669129215-8ntt",
+      "patchId": "PW-102",
+      "projectId": "proj-1791666347736",
+      "status": "passed",
+      "totalChecks": 12,
+      "passedChecks": 12,
+      "visualSimilarityPercent": 99.8,
+      "potentialRegression": "low",
+      "startedAt": "2026-10-10T21:52:09.216Z",
+      "completedAt": "2026-10-10T21:52:09.216Z",
+      "checks": [
+        {
+          "id": "vc-1",
+          "stepNumber": 1,
+          "name": "Git Commit Verification",
+          "description": "Git add and commit verified on HEAD [8202be9]",
+          "status": "passed",
+          "durationMs": 410
+        },
+        {
+          "id": "vc-2",
+          "stepNumber": 2,
+          "name": "Production Build",
+          "description": "Production bundle compilation and AST integrity",
+          "status": "passed",
+          "durationMs": 1200
+        },
+        {
+          "id": "vc-3",
+          "stepNumber": 3,
+          "name": "Typecheck",
+          "description": "TypeScript strict checking",
+          "status": "passed",
+          "durationMs": 750
+        },
+        {
+          "id": "vc-4",
+          "stepNumber": 4,
+          "name": "Token Validation",
+          "description": "Design token syntax and CSS variable checking",
+          "status": "passed",
+          "durationMs": 380
+        },
+        {
+          "id": "vc-5",
+          "stepNumber": 5,
+          "name": "Application Health",
+          "description": "HTTP healthcheck returns 200 OK",
+          "status": "passed",
+          "durationMs": 510
+        },
+        {
+          "id": "vc-6",
+          "stepNumber": 6,
+          "name": "DOM Hydration",
+          "description": "DOM ready & hydration complete without errors",
+          "status": "passed",
+          "durationMs": 690
+        },
+        {
+          "id": "vc-7",
+          "stepNumber": 7,
+          "name": "Selector Integrity",
+          "description": "Target selectors matched in DOM tree",
+          "status": "passed",
+          "durationMs": 180
+        },
+        {
+          "id": "vc-8",
+          "stepNumber": 8,
+          "name": "Interaction Tests",
+          "description": "Browser interaction and click listeners verified",
+          "status": "passed",
+          "durationMs": 980
+        },
+        {
+          "id": "vc-9",
+          "stepNumber": 9,
+          "name": "Link Checks",
+          "description": "All href targets reachable",
+          "status": "passed",
+          "durationMs": 820
+        },
+        {
+          "id": "vc-10",
+          "stepNumber": 10,
+          "name": "Responsive Tests",
+          "description": "Viewport matrix: Mobile, Tablet, Desktop passed",
+          "status": "passed",
+          "durationMs": 1900
+        },
+        {
+          "id": "vc-11",
+          "stepNumber": 11,
+          "name": "Visual Regression",
+          "description": "Perceptual screenshot diffing (99.8% match)",
+          "status": "passed",
+          "durationMs": 1450
+        },
+        {
+          "id": "vc-12",
+          "stepNumber": 12,
+          "name": "Console Error Detection",
+          "description": "Zero unhandled exceptions or layout shifts",
+          "status": "passed",
+          "durationMs": 250
+        }
+      ]
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud-1791787253606-2a9b",
+      "action": "DEPLOYMENT_COMPLETED",
+      "user": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "timestamp": "2026-10-12T06:40:53.606Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "commitSha": "0aa2c11",
+        "fullSha": "0aa2c110aa2c110aa2c110aa2c110aa2c11",
+        "branch": "main",
+        "version": "v1.5.0",
+        "deploymentId": "DEP-238",
+        "commitMessage": "feat(visual): polish layout and styles via Axon Extension",
+        "gitPipeline": [
+          "Git fallback executed [0aa2c11]"
+        ],
+        "pushSuccess": false
+      },
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-113"
+    },
+    {
+      "id": "aud-1791704114047-p6kb",
+      "action": "DEPLOYMENT_COMPLETED",
+      "user": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "timestamp": "2026-10-11T07:35:14.047Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "commitSha": "35579a3",
+        "fullSha": "35579a335579a335579a335579a335579a3",
+        "branch": "main",
+        "version": "v1.4.0",
+        "deploymentId": "DEP-511",
+        "commitMessage": "feat(visual): polish layout and styles via Axon Extension",
+        "gitPipeline": [
+          "Git fallback executed [35579a3]"
+        ],
+        "pushSuccess": false
+      },
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-112"
+    },
+    {
+      "id": "aud-1791704016786-d1dq",
+      "action": "PATCH_APPROVED",
+      "user": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "timestamp": "2026-10-11T07:33:36.786Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {},
+      "patchId": "PW-109"
+    },
+    {
+      "id": "aud-1791703957308-bayw",
+      "action": "PATCH_APPROVED",
+      "user": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "timestamp": "2026-10-11T07:32:37.308Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {},
+      "patchId": "PW-111"
+    },
+    {
+      "id": "aud-1791703710857-16p6",
+      "action": "PATCH_REJECTED",
+      "user": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "timestamp": "2026-10-11T07:28:30.857Z",
+      "ip": "127.0.0.1",
+      "userAgent": "node",
+      "result": "success",
+      "metadata": {},
+      "patchId": "PW-111"
+    },
+    {
+      "id": "aud-1791703710842-2h7v",
+      "action": "PATCH_APPROVED",
+      "user": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "timestamp": "2026-10-11T07:28:30.842Z",
+      "ip": "127.0.0.1",
+      "userAgent": "node",
+      "result": "success",
+      "metadata": {},
+      "patchId": "PW-111"
+    },
+    {
+      "id": "aud-1791703455950-qspe",
+      "action": "PATCH_CREATED",
+      "user": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "timestamp": "2026-10-11T07:24:15.950Z",
+      "ip": "127.0.0.1",
+      "userAgent": "node",
+      "result": "success",
+      "metadata": {
+        "title": "Header Navbar Hotfix",
+        "author": "Shreyas Mahajan",
+        "source": "extension"
+      },
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-111"
+    },
+    {
+      "id": "aud-1791699291900-ebq8",
+      "action": "PATCH_CREATED",
+      "user": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "timestamp": "2026-10-11T06:14:51.900Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "title": "Visual DOM tweak & styling hotfix",
+        "source": "extension"
+      },
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-110"
+    },
+    {
+      "id": "aud-1791696207360-thfp",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T05:23:27.360Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Inspector Client",
+        "browser": "Chrome 129",
+        "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E"
+      }
+    },
+    {
+      "id": "aud-1791696109697-b78u",
+      "action": "PATCH_CREATED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T05:21:49.697Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "title": "Visual DOM tweak & styling hotfix",
+        "source": "extension"
+      },
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-109"
+    },
+    {
+      "id": "aud-1791695975700-bl9t",
+      "action": "PATCH_CREATED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T05:19:35.700Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "title": "Visual DOM tweak & styling hotfix",
+        "source": "extension"
+      },
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-108"
+    },
+    {
+      "id": "aud-1791695835394-f93y",
+      "action": "PATCH_CREATED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T05:17:15.394Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "title": "Visual DOM tweak & styling hotfix",
+        "source": "extension"
+      },
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-107"
+    },
+    {
+      "id": "aud-1791695729740-s5wo",
+      "action": "PATCH_CREATED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T05:15:29.740Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "title": "Visual DOM tweak & styling hotfix",
+        "source": "extension"
+      },
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-106"
+    },
+    {
+      "id": "aud-1791695192202-gs3w",
+      "action": "PATCH_UPDATED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T05:06:32.202Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "result": "success",
+      "metadata": {
+        "action": "AI_INLINE_EDIT",
+        "prompt": "Change text as int to 42 and increase font size by some amount",
+        "selector": "element",
+        "engine": "gemini-3.8-flash",
+        "generatedProperties": [
+          "font-size"
+        ]
+      }
+    },
+    {
+      "id": "aud-1791694746317-uur4",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T04:59:06.317Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Inspector Client",
+        "browser": "Chrome 129",
+        "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E"
+      }
+    },
+    {
+      "id": "aud-1791692825312-h7qq",
+      "action": "DEPLOYMENT_COMPLETED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T04:27:05.312Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "commitSha": "0057af2",
+        "fullSha": "0057af20057af20057af20057af20057af2",
+        "branch": "main",
+        "version": "v1.3.0",
+        "deploymentId": "DEP-407",
+        "commitMessage": "feat(visual): polish layout and styles via Axon Extension",
+        "gitPipeline": [
+          "Git fallback executed [0057af2]"
+        ],
+        "pushSuccess": false
+      },
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-105"
+    },
+    {
+      "id": "aud-1791692657580-ru1e",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T04:24:17.580Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Inspector Client",
+        "browser": "Chrome 129",
+        "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E"
+      }
+    },
+    {
+      "id": "aud-1791692002798-j2s2",
+      "action": "PATCH_CREATED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T04:13:22.798Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "title": "Visual DOM tweak & styling hotfix",
+        "source": "extension"
+      },
+      "projectId": "proj-1791690483611",
+      "patchId": "PW-104"
+    },
+    {
+      "id": "aud-1791691345054-r2jz",
+      "action": "COLLABORATOR_INVITED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T04:02:25.054Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "action": "INVITE_ACCEPTED",
+        "email": "kainetica007@gmail.com",
+        "role": "developer",
+        "inviteCode": "am5opynt"
+      },
+      "projectId": "proj-1791690483611",
+      "projectName": "Fittrack AI"
+    },
+    {
+      "id": "aud-1791691304070-azmm",
+      "action": "INVITATION_SENT",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T04:01:44.070Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "inviteCode": "am5opynt",
+        "role": "developer"
+      },
+      "projectId": "proj-1791690483611",
+      "projectName": "Fittrack AI"
+    },
+    {
+      "id": "aud-1791691222821-aggk",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T04:00:22.821Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Inspector Client",
+        "browser": "Chrome 129",
+        "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E"
+      }
+    },
+    {
+      "id": "aud-1791690483612-rznn",
+      "action": "PROJECT_CREATED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T03:48:03.612Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "repo": "Akshat-churi/Fittrack-AI",
+        "url": "https://fittrack-ai-rho.vercel.app",
+        "ownerEmail": "akshatchuri699@gmail.com"
+      },
+      "projectId": "proj-1791690483611",
+      "projectName": "Fittrack AI"
+    },
+    {
+      "id": "aud-1791677247441-9dgt",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-11T00:07:27.441Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Inspector Client",
+        "browser": "Chrome 129",
+        "userId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E"
+      }
+    },
+    {
+      "id": "aud-1791675294044-w1bj",
+      "action": "PATCH_CREATED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T23:34:54.044Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "title": "Visual DOM tweak & styling hotfix",
+        "source": "extension"
+      },
+      "projectId": "proj-1791666347736",
+      "patchId": "PW-103"
+    },
+    {
+      "id": "aud-1791675122965-l1jp",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T23:32:02.965Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Inspector Client",
+        "browser": "Chrome 129"
+      }
+    },
+    {
+      "id": "aud-1791675085991-fm6v",
+      "action": "COLLABORATOR_INVITED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T23:31:25.991Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "action": "INVITE_ACCEPTED",
+        "email": "kainetica007@gmail.com",
+        "role": "developer",
+        "inviteCode": "u88mo52r"
+      },
+      "projectId": "proj-1791666347736",
+      "projectName": "Curastyl PitchX VCET"
+    },
+    {
+      "id": "aud-1791675038676-dova",
+      "action": "INVITATION_SENT",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T23:30:38.676Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "inviteCode": "u88mo52r",
+        "role": "developer"
+      },
+      "projectId": "proj-1791666347736",
+      "projectName": "Curastyl PitchX VCET"
+    },
+    {
+      "id": "aud-1791669209679-mxca",
+      "action": "COLLABORATOR_INVITED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T21:53:29.679Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.9444",
+      "result": "success",
+      "metadata": {
+        "action": "INVITE_ACCEPTED",
+        "email": "friend.testing@gmail.com",
+        "role": "developer",
+        "inviteCode": "9nfol1nh"
+      },
+      "projectId": "proj-1791666347736",
+      "projectName": "Curastyl PitchX VCET"
+    },
+    {
+      "id": "aud-1791669167350-y3g3",
+      "action": "INVITATION_SENT",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T21:52:47.350Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.9444",
+      "result": "success",
+      "metadata": {
+        "inviteCode": "9nfol1nh",
+        "inviteeEmail": "friend.testing@gmail.com",
+        "role": "developer"
+      },
+      "projectId": "proj-1791666347736",
+      "projectName": "Curastyl PitchX VCET"
+    },
+    {
+      "id": "aud-1791669129218-urvj",
+      "action": "DEPLOYMENT_COMPLETED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T21:52:09.218Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.9444",
+      "result": "success",
+      "metadata": {
+        "commitSha": "8202be9",
+        "fullSha": "8202be9705eb18f258d6b75e4567e407117922a8",
+        "branch": "main",
+        "version": "v1.2.0",
+        "deploymentId": "DEP-497",
+        "commitMessage": "test: verify real git add commit and push pipeline",
+        "gitPipeline": [
+          "git add -A (visual tokens & overrides staged)",
+          "git commit -m \"test: verify real git add commit and push pipeline\"",
+          "HEAD resolved: 8202be9 (8202be9705eb18f258d6b75e4567e407117922a8)",
+          "git push origin main OK: Synchronized"
+        ],
+        "pushSuccess": true
+      },
+      "projectId": "proj-1791666347736",
+      "patchId": "PW-102"
+    },
+    {
+      "id": "aud-1791666501530-o51m",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T21:08:21.530Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Inspector Client",
+        "browser": "Chrome 129"
+      }
+    },
+    {
+      "id": "aud-1791666475259-kvh4",
+      "action": "INVITATION_SENT",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T21:07:55.259Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "inviteCode": "st3fdusb",
+        "role": "developer"
+      },
+      "projectId": "proj-1791666347736",
+      "projectName": "Curastyl PitchX VCET"
+    },
+    {
+      "id": "aud-1791666347737-62mt",
+      "action": "PROJECT_CREATED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T21:05:47.737Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "repo": "Shreyas04venom/curastyl-pitchX-VCET",
+        "url": "https://curastyl-vcet.vercel.app",
+        "ownerEmail": "shreyasmahajan0306@gmail.com"
+      },
+      "projectId": "proj-1791666347736",
+      "projectName": "Curastyl PitchX VCET"
+    },
+    {
+      "id": "aud-1791666312153-sv7g",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "timestamp": "2026-10-10T21:05:12.153Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Inspector Client",
+        "browser": "Chrome 129"
+      }
+    },
+    {
+      "id": "aud-1791666199654-vz17",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "name": "vivan",
+        "email": "vivanshetty45@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZiQmk1Mk96aTZQWXVqYWV6TTZzV25ScTQifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "githubUsername": "codevivan"
+      },
+      "timestamp": "2026-10-10T21:03:19.654Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Inspector Client",
+        "browser": "Chrome 129"
+      }
+    },
+    {
+      "id": "aud-1791665837308-dxhl",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "name": "vivan",
+        "email": "vivanshetty45@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZiQmk1Mk96aTZQWXVqYWV6TTZzV25ScTQifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "githubUsername": "codevivan"
+      },
+      "timestamp": "2026-10-10T20:57:17.308Z",
+      "ip": "127.0.0.1",
+      "userAgent": "node",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Browser",
+        "browser": "Chrome 129"
+      }
+    },
+    {
+      "id": "aud-1791665837298-g020",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "name": "vivan",
+        "email": "vivanshetty45@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZiQmk1Mk96aTZQWXVqYWV6TTZzV25ScTQifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "githubUsername": "codevivan"
+      },
+      "timestamp": "2026-10-10T20:57:17.298Z",
+      "ip": "127.0.0.1",
+      "userAgent": "node",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Browser",
+        "browser": "Chrome 129"
+      }
+    },
+    {
+      "id": "aud-1791665837274-nli8",
+      "action": "INVITATION_SENT",
+      "user": {
+        "id": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "name": "vivan",
+        "email": "vivanshetty45@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZiQmk1Mk96aTZQWXVqYWV6TTZzV25ScTQifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "githubUsername": "codevivan"
+      },
+      "timestamp": "2026-10-10T20:57:17.274Z",
+      "ip": "127.0.0.1",
+      "userAgent": "node",
+      "result": "success",
+      "metadata": {
+        "inviteCode": "mdi8w1r8",
+        "role": "developer"
+      },
+      "projectId": "test-proj-999",
+      "projectName": "Test Project"
+    },
+    {
+      "id": "aud-1791665066501-3vy6",
+      "action": "EXTENSION_PAIRED",
+      "user": {
+        "id": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "name": "vivan",
+        "email": "vivanshetty45@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZiQmk1Mk96aTZQWXVqYWV6TTZzV25ScTQifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "githubUsername": "codevivan"
+      },
+      "timestamp": "2026-10-10T20:44:26.502Z",
+      "ip": "127.0.0.1",
+      "userAgent": "node",
+      "result": "success",
+      "metadata": {
+        "device": "Chrome Browser",
+        "browser": "Chrome 129"
+      }
+    },
+    {
+      "id": "aud-1790620936435-0jbm",
+      "action": "PROJECT_CREATED",
+      "user": {
+        "id": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "name": "vivan",
+        "email": "vivanshetty45@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZiQmk1Mk96aTZQWXVqYWV6TTZzV25ScTQifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "githubUsername": "codevivan"
+      },
+      "timestamp": "2026-09-28T18:42:16.435Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "result": "success",
+      "metadata": {
+        "repo": "codevivan/CertGuard",
+        "url": "https://cert-guard.vercel.app"
+      },
+      "projectId": "proj-1790620936435",
+      "projectName": "CertGuard"
+    },
+    {
+      "id": "aud-1790620916375-jrfe",
+      "action": "PROJECT_CREATED",
+      "user": {
+        "id": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "name": "vivan",
+        "email": "vivanshetty45@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZiQmk1Mk96aTZQWXVqYWV6TTZzV25ScTQifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+        "githubUsername": "codevivan"
+      },
+      "timestamp": "2026-09-28T18:41:56.375Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "repo": "TuhinJalui/Styler2",
+        "url": ""
+      },
+      "projectId": "proj-1790620916375",
+      "projectName": "Styler2"
+    },
+    {
+      "id": "aud-1790620814341-7cye",
+      "action": "PROJECT_CREATED",
+      "user": {
+        "id": "user_3KVoQiSzvWlYwMbQ2RIctnosgGh",
+        "name": "tapu",
+        "email": "tapu3983@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZvUWpSN2JwSXBWdDc1aUV4UjRIcmVRT04ifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVoQiSzvWlYwMbQ2RIctnosgGh"
+      },
+      "timestamp": "2026-09-28T18:40:14.341Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "repo": "TuhinJalui/FinQuest",
+        "url": "https://hook-shush-37808004.figma.site/"
+      },
+      "projectId": "proj-1790620814341",
+      "projectName": "FinQuest"
+    },
+    {
+      "id": "aud-1790615624298-fve0",
+      "action": "PROJECT_CREATED",
+      "user": {
+        "id": "user_3KVoQiSzvWlYwMbQ2RIctnosgGh",
+        "name": "tapu",
+        "email": "tapu3983@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZvUWpSN2JwSXBWdDc1aUV4UjRIcmVRT04ifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVoQiSzvWlYwMbQ2RIctnosgGh"
+      },
+      "timestamp": "2026-09-28T17:13:44.298Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+      "result": "success",
+      "metadata": {
+        "repo": "Shreyas04venom/silence-classroom",
+        "url": "https://silence-classroom.agnidev.me"
+      },
+      "projectId": "proj-1790615624295",
+      "projectName": "Silence Classroom"
+    },
+    {
+      "id": "aud-1790614835813-jlrw",
+      "action": "DEPLOYMENT_COMPLETED",
+      "user": {
+        "id": "usr-owner-1",
+        "name": "Workspace Lead",
+        "email": "developer@axon.dev",
+        "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Axon",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "UTC"
+      },
+      "timestamp": "2026-09-28T17:00:35.813Z",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+      "result": "success",
+      "metadata": {
+        "commitSha": "4ccab97",
+        "branch": "main",
+        "version": "v1.1.0",
+        "commitMessage": "feat(visual): style overrides applied via Axon Chrome Extension",
+        "gitPipeline": [
+          "git add .",
+          "git commit -m \"feat(visual): style overrides applied via Axon Chrome Extension\"",
+          "git push origin main"
+        ]
+      },
+      "projectId": "proj-live",
+      "patchId": "PW-101"
+    }
+  ],
+  "conflicts": [],
+  "versions": [
+    {
+      "version": "v1.5.0",
+      "commitSha": "0aa2c11",
+      "patchId": "PW-113",
+      "title": "feat(visual): polish layout and styles via Axon Extension",
+      "author": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "deployedAt": "2026-10-12T06:40:53.606Z",
+      "status": "active",
+      "deploymentId": "DEP-238",
+      "rollbackPossible": true
+    },
+    {
+      "version": "v1.4.0",
+      "commitSha": "35579a3",
+      "patchId": "PW-112",
+      "title": "feat(visual): polish layout and styles via Axon Extension",
+      "author": {
+        "id": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "name": "Akshat Churi",
+        "email": "akshatchuri699@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3UvMTg1NjExMDUyP3Y9NCIsInMiOiJhVDVlbGtnZmEreitFOEhLUzRUZFV5bDF4T0NvN2FzZkhNQVczTmRyS0xRIn0",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+        "githubUsername": "akshat-churi"
+      },
+      "deployedAt": "2026-10-11T07:35:14.047Z",
+      "status": "superseded",
+      "deploymentId": "DEP-511",
+      "rollbackPossible": true
+    },
+    {
+      "version": "v1.3.0",
+      "commitSha": "0057af2",
+      "patchId": "PW-105",
+      "title": "feat(visual): polish layout and styles via Axon Extension",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "deployedAt": "2026-10-11T04:27:05.312Z",
+      "status": "superseded",
+      "deploymentId": "DEP-407",
+      "rollbackPossible": true
+    },
+    {
+      "version": "v1.2.0",
+      "commitSha": "8202be9",
+      "patchId": "PW-102",
+      "title": "test: verify real git add commit and push pipeline",
+      "author": {
+        "id": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "name": "Shreyas Mahajan",
+        "email": "shreyasmahajan0306@gmail.com",
+        "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zS1ZKdXpacUFicktRUGFqZUprdFlTQkt0MXkifQ",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "Asia/Calcutta",
+        "clerkId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+        "githubUsername": "shreyas04venom"
+      },
+      "deployedAt": "2026-10-10T21:52:09.215Z",
+      "status": "superseded",
+      "deploymentId": "DEP-497",
+      "rollbackPossible": true
+    },
+    {
+      "version": "v1.1.0",
+      "commitSha": "4ccab97",
+      "patchId": "PW-101",
+      "title": "feat(visual): style overrides applied via Axon Chrome Extension",
+      "author": {
+        "id": "usr-owner-1",
+        "name": "Workspace Lead",
+        "email": "developer@axon.dev",
+        "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Axon",
+        "role": "owner",
+        "cursorColor": "#6366F1",
+        "timezone": "UTC"
+      },
+      "deployedAt": "2026-09-28T17:00:35.785Z",
+      "status": "superseded",
+      "deploymentId": "DEP-720",
+      "rollbackPossible": true
+    }
+  ],
+  "invites": [
+    {
+      "id": "inv-1791697693764-j0gf",
+      "code": "e3pcr6uf",
+      "projectId": "proj-1791690483611",
+      "projectName": "Fittrack AI",
+      "inviterId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+      "inviterName": "Akshat Churi",
+      "inviterEmail": "akshatchuri699@gmail.com",
+      "role": "developer",
+      "status": "pending",
+      "createdAt": "2026-10-11T05:48:13.764Z"
+    },
+    {
+      "id": "inv-1791691304067-7ilv",
+      "code": "am5opynt",
+      "projectId": "proj-1791690483611",
+      "projectName": "Fittrack AI",
+      "inviterId": "user_3KVQMHuZBeGJcXAM0QUCLWVj222",
+      "inviterName": "Akshat Churi",
+      "inviterEmail": "akshatchuri699@gmail.com",
+      "role": "developer",
+      "status": "accepted",
+      "createdAt": "2026-10-11T04:01:44.067Z",
+      "acceptedAt": "2026-10-11T04:02:25.054Z"
+    },
+    {
+      "id": "inv-1791675038552-708x",
+      "code": "u88mo52r",
+      "projectId": "proj-1791666347736",
+      "projectName": "Curastyl PitchX VCET",
+      "inviterId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "inviterName": "Shreyas Mahajan",
+      "inviterEmail": "shreyasmahajan0306@gmail.com",
+      "role": "developer",
+      "status": "accepted",
+      "createdAt": "2026-10-10T23:30:38.552Z",
+      "acceptedAt": "2026-10-10T23:31:25.991Z"
+    },
+    {
+      "id": "inv-1791669167348-e6fl",
+      "code": "9nfol1nh",
+      "projectId": "proj-1791666347736",
+      "projectName": "Curastyl PitchX VCET",
+      "inviterId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "inviterName": "Shreyas Mahajan",
+      "inviterEmail": "shreyasmahajan0306@gmail.com",
+      "inviteeEmail": "friend.testing@gmail.com",
+      "role": "developer",
+      "status": "accepted",
+      "createdAt": "2026-10-10T21:52:47.348Z",
+      "acceptedAt": "2026-10-10T21:53:29.679Z"
+    },
+    {
+      "id": "inv-1791666475255-i6nc",
+      "code": "st3fdusb",
+      "projectId": "proj-1791666347736",
+      "projectName": "Curastyl PitchX VCET",
+      "inviterId": "user_3KVJuxyzybQ5jfsd24jzdLGzQ2E",
+      "inviterName": "Shreyas Mahajan",
+      "inviterEmail": "shreyasmahajan0306@gmail.com",
+      "role": "developer",
+      "status": "pending",
+      "createdAt": "2026-10-10T21:07:55.255Z"
+    },
+    {
+      "id": "inv-1791665837271-n8nz",
+      "code": "mdi8w1r8",
+      "projectId": "test-proj-999",
+      "projectName": "Test Project",
+      "inviterId": "user_3KVbBiBdrKqjmVtkkIHruAbEJ8G",
+      "inviterName": "vivan",
+      "inviterEmail": "vivanshetty45@gmail.com",
+      "role": "developer",
+      "status": "pending",
+      "createdAt": "2026-10-10T20:57:17.271Z"
+    }
+  ],
+  "integrations": {
+    "github": {
+      "connected": false,
+      "org": "",
+      "accountType": "user",
+      "appInstalled": false,
+      "repositories": [],
+      "permissions": [
+        "repo",
+        "workflow"
+      ],
+      "lastSync": "2026-09-28T16:00:00.000Z"
+    },
+    "vercel": {
+      "connected": false,
+      "team": "",
+      "projects": [],
+      "domains": [],
+      "lastSync": ""
+    },
+    "netlify": {
+      "connected": false,
+      "team": "",
+      "sites": [],
+      "lastSync": ""
+    },
+    "supabase": {
+      "connected": true,
+      "projectUrl": "https://ufmybpckkpxfrxqlwdps.supabase.co",
+      "anonKeyConfigured": true,
+      "serviceRoleConfigured": false,
+      "realtimeEnabled": true,
+      "lastSync": "2026-09-28T16:00:00.000Z"
+    },
+    "ai": {
+      "provider": "gemini",
+      "model": "gemini-1.5-pro",
+      "temperature": 0.2,
+      "allowFrontendModifications": true,
+      "allowBackendModifications": false,
+      "requireApprovalForBackend": true,
+      "requireApprovalForHighRisk": true
+    }
+  }
+}
